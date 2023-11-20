@@ -1,0 +1,10 @@
+﻿  Project1-InSchool.cpp
+D:\Code C\Project1-InSchool\Project1-InSchool\Project1-InSchool.cpp(69,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Code C\Project1-InSchool\Project1-InSchool\Project1-InSchool.cpp(70,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Code C\Project1-InSchool\Project1-InSchool\Project1-InSchool.cpp(466,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Code C\Project1-InSchool\Project1-InSchool\Project1-InSchool.cpp(470,80): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Code C\Project1-InSchool\Project1-InSchool\Project1-InSchool.cpp(474,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Code C\Project1-InSchool\Project1-InSchool\Project1-InSchool.cpp(484,109): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Code C\Project1-InSchool\Project1-InSchool\Project1-InSchool.cpp(491,74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Code C\Project1-InSchool\Project1-InSchool\Project1-InSchool.cpp(498,65): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Project1-InSchool.vcxproj -> D:\Code C\Project1-InSchool\x64\Debug\Project1-InSchool.exe
